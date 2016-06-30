@@ -1,0 +1,4 @@
+#!usr/bin/Python
+# exercise file
+
+print(My first little script.)
